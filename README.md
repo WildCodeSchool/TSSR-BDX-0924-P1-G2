@@ -41,14 +41,18 @@ Pour la première semaine, Mindy prendra le rôle de Product Owner, et la semain
 
 <h2 id="Choix techniques et prérequis">Choix techniques et prérequis</h2>
 
-Pour le choix du serveur et afin de respecter les demandes du client, nous avons étudié deux types de systèmes d'exploitation : Debian et Windows.
+#### Choix techniques :
 
-Voici les avantages et les inconvénients de chacun.
+Dans le cadre de la sélection du serveur et afin de répondre aux exigences du client, nous avons examiné deux types de systèmes d'exploitation : Debian et Windows.
+
+Nous présentons ci-après les avantages et les inconvénients de chacun.
 
 |  OS SERVEUR  |  Avantages  |  Inconvénients  |  
 |---  |:-:  |:-:  |
 |  DEBIAN  | **Stabilité :** système très stable et fiable, idéal pour des serveurs à long terme</br> **Performances :** meilleur performances que Windows</br> **Contrôle :** contrôle total du serveur (optimisation, gestion des permissions…)</br> **Sécurité :** sécurité excellente et mise à jour souvent rapide et faciles</br> **Coût :** Gratuit et open-source | **Connaissance de Linux :** ligne de commande, gestions de services etc.. |  
 |  WINDOWS |  **Facilité d’installation :** utilise un installateurs graphiques, pas besoin de ligne de commande</br> **Compatibilité :** sous windows le logicielle peut être compatible avec d’autres applications (jeux, logiciel de gestion etc..)</br>**Interface graphique :** gestion du serveur plus facile pour un utilisateur non techniques   |  **Performance :** Windows et plus gourmand en ressources qu’un serveur Linux</br> **Coût :** nécessite l’achat d’une licence Windows</br> **Optimisation :** moins optimisé pour les services de fond (mumble est un service de fond)</br> **Sécurité :** moins sûr qu’un serveur Linux pour un hébergement à long terme  |
+
+En prenant en considération les avantages et les inconvénients, tout en respectant les exigences du client, nous avons décidé de choisir Debian comme système d'exploitation pour notre serveur. En effet, malgré un inconvénient majeur, Debian présente tous les atouts nécessaires à la réussite du projet.
 
 <h2 id="Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</h2>
 
