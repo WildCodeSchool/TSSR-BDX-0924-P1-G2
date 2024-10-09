@@ -2,7 +2,9 @@ Mise en place du serveur vocal Mumble
 
 Sommaire
 <li><a href="#Présentation du projet et objectifs finaux">Présentation du projet et objectifs finaux</a></li>
+
 <li><a href="#Introduction: mise en contexte">Introduction : mise en contexte</a></li>
+
 <li><a href="#Membres du groupe de projet">Membres du groupe de projet</a></li>
 <li><a href="#Choix techniques">Choix techniques</a></li>
 <li><a href="#Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</a></li>
