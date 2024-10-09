@@ -1,6 +1,6 @@
 Mise en place du serveur vocal Mumble
 
-![logo mumble](mumble-logo)
+![logo mumble](mumble-logo.png)
 
 Sommaire
 <li><a href="#Présentation du projet et objectifs finaux">Présentation du projet et objectifs finaux</a></li>
