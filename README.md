@@ -62,7 +62,9 @@ _**Client (minimum 2):**_ Windows 10 / Ubuntu 24.04
 **MUMBLE**  ne nécessite pratiquement :  
 - aucune ressource système  
 - aucune puissance de processeur  
-- la mémoire principale est à peine utilisée  
+- la mémoire principale est à peine utilisée
+- Seul un microphone est nécessaire pour participer aux conversations.
+
 
 <h2 id="Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</h2>
 
