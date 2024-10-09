@@ -35,3 +35,11 @@ Le Product Owner veille à la satisfaction des demandes du client, c'est un chef
 Le Scrum Master lui veille, aux bonnes applications de méthode de travail. Il va superviser l'équipe de travail et l'aider grâce à ses enseignements et conseils.
 Pour la première semaine, Mindy prendra le rôle de Product Owner, et la semaine suivante, ce sera le rôle d'Anthony.
 
+<h2 id="Choix techniques">Choix techniques</h2>
+
+<h2 id="Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</h2>
+
+<h2 id="Solutions trouvées">Solutions et alternatives trouvées</h2>
+
+<h2 id="Améliorations possibles">Améliorations possibles : suggestions d’améliorations futures</h2>
+
