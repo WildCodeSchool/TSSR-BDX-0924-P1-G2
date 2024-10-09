@@ -2,6 +2,11 @@ Mise en place du serveur vocal Mumble
 
 [![https://www.mumble.info/](https://www.mumble.info/css/mumble.svg)](https://www.mumble.info)
 
+<a href="https://www.mumble.info/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Icons_mumble.svg" alt="Description de l'image">
+</a>
+
+
 Sommaire
 <li><a href="#Présentation du projet et objectifs finaux">Présentation du projet et objectifs finaux</a></li>
 <li><a href="#Introduction et mise en contexte">Introduction et mise en contexte</a></li>
@@ -44,4 +49,6 @@ Pour la première semaine, Mindy prendra le rôle de Product Owner, et la semain
 <h2 id="Solutions trouvées">Solutions et alternatives trouvées</h2>
 
 <h2 id="Améliorations possibles">Améliorations possibles : suggestions d’améliorations futures</h2>
+
+
 
