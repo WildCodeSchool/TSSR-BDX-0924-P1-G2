@@ -4,7 +4,7 @@ Sommaire
 <li><a href="#Présentation du projet et objectifs finaux">Présentation du projet et objectifs finaux</a></li>
 <li><a href="#Introduction et mise en contexte">Introduction et mise en contexte</a></li>
 <li><a href="#Membres du groupe de projet">Membres du groupe de projet</a></li>
-<li><a href="#Choix techniques">Choix techniques</a></li>
+<li><a href="#Choix techniques et prérequis">Choix techniques et prérequis</a></li>
 <li><a href="#Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</a></li>
 <li><a href="#Solutions trouvées">Solutions et alternatives trouvées</a></li>
 <li><a href="#Améliorations possibles">Améliorations possibles : suggestions d’améliorations futures</a></li>
@@ -35,7 +35,7 @@ Le Product Owner veille à la satisfaction des demandes du client, c'est un chef
 Le Scrum Master lui veille, aux bonnes applications de méthode de travail. Il va superviser l'équipe de travail et l'aider grâce à ses enseignements et conseils.
 Pour la première semaine, Mindy prendra le rôle de Product Owner, et la semaine suivante, ce sera le rôle d'Anthony.
 
-<h2 id="Choix techniques">Choix techniques</h2>
+<h2 id="Choix techniques et prérequis">Choix techniques et prérequis</h2>
 
 <h2 id="Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</h2>
 
