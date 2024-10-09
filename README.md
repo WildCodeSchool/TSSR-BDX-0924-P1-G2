@@ -1,5 +1,6 @@
 Mise en place du serveur vocal Mumble
 
+Sommaire
 <li><a href="#Présentation du projet et objectifs finaux">Présentation du projet et objectifs finaux</a></li>
 
 Introduction : mise en contexte
@@ -10,7 +11,8 @@ Solutions trouvées : Solutions et alternatives trouvées
 Améliorations possibles : suggestions d’améliorations futures
 
 
-Présentation du projet et objectifs finaux
+<h2 id="Présentation du projet et objectifs finaux">Présentation du projet et objectifs finaux</h2>
+
 Le 7 Octobre, nous avons rencontré notre client, représentant de la société Ignetic. Lors de cet entretien, nous avons évoqué les besoins pour cette société. La demande du client est de mettre en place un serveur vocal privé, afin de pouvoir échanger avec ses collaborateurs et ses clients.
 Le besoin est d'incrémenter 2 canaux publics: un pour chacune des équipes de travail, ainsi qu'un troisième privé, géré uniquement par l'administrateur. Sur ce canal l'administrateur devra avoir accès à chacune de ses connexions aux historiques de connexion, qui incluent la date et la durée des connexions. 
 Cet historique devra pouvoir être accessible sur simple demande de l'administrateur.
