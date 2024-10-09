@@ -51,8 +51,18 @@ Nous présentons ci-après les avantages et les inconvénients de chacun.
 |---  |:-:  |:-:  |
 |  DEBIAN  | **Stabilité :** système très stable et fiable, idéal pour des serveurs à long terme</br> **Performances :** meilleur performances que Windows</br> **Contrôle :** contrôle total du serveur (optimisation, gestion des permissions…)</br> **Sécurité :** sécurité excellente et mise à jour souvent rapide et faciles</br> **Coût :** Gratuit et open-source | **Connaissance de Linux :** ligne de commande, gestions de services etc.. |  
 |  WINDOWS |  **Facilité d’installation :** utilise un installateurs graphiques, pas besoin de ligne de commande</br> **Compatibilité :** sous windows le logicielle peut être compatible avec d’autres applications (jeux, logiciel de gestion etc..)</br>**Interface graphique :** gestion du serveur plus facile pour un utilisateur non techniques   |  **Performance :** Windows et plus gourmand en ressources qu’un serveur Linux</br> **Coût :** nécessite l’achat d’une licence Windows</br> **Optimisation :** moins optimisé pour les services de fond (mumble est un service de fond)</br> **Sécurité :** moins sûr qu’un serveur Linux pour un hébergement à long terme  |
+  
+En prenant en considération les avantages et les inconvénients, tout en respectant les exigences du client, nous avons décidé de choisir Debian comme système d'exploitation pour notre serveur. En effet, malgré un inconvénient majeur, Debian présente tous les atouts nécessaires à la réussite du projet.  
 
-En prenant en considération les avantages et les inconvénients, tout en respectant les exigences du client, nous avons décidé de choisir Debian comme système d'exploitation pour notre serveur. En effet, malgré un inconvénient majeur, Debian présente tous les atouts nécessaires à la réussite du projet.
+#### Prérequis techniques  
+
+_**Application :**_ MUMBLE  
+_**Serveur :**_ Debian 12  
+_**Client (minimum 2):**_ Windows 10 / Ubuntu 24.04  
+**MUMBLE**  ne nécessite pratiquement :  
+- aucune ressource système  
+- aucune puissance de processeur  
+- la mémoire principale est à peine utilisée  
 
 <h2 id="Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</h2>
 
