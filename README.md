@@ -47,7 +47,7 @@ Voici les avantages et les inconvénients de chacun.
 
 |  OS SERVEUR  |  Avantages  |  Inconvénients  |  
 |---  |:-:  |:-:  |
-|  DEBIAN  | **Stabilité :** système très stable et fiable, idéal pour des serveurs à long terme **Performances :** meilleur performances que Windows **Contrôle :** contrôle total du serveur (optimisation, gestion des permissions…) **Sécurité :** sécurité excellente et mise à jour souvent rapide et faciles **Coût :** Gratuit et open-source | **Connaissance de Linux :** ligne de commande, gestions de services etc.. |  
+|  DEBIAN  | **Stabilité :** système très stable et fiable, idéal pour des serveurs à long terme</br> **Performances :** meilleur performances que Windows</br> **Contrôle :** contrôle total du serveur (optimisation, gestion des permissions…)</br> **Sécurité :** sécurité excellente et mise à jour souvent rapide et faciles</br> **Coût :** Gratuit et open-source | **Connaissance de Linux :** ligne de commande, gestions de services etc.. |  
 |  WINDOWS |  aze  |  aze  |
 
 <h2 id="Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</h2>
