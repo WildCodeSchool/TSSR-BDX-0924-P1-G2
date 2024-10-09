@@ -48,7 +48,8 @@ Voici les avantages et les inconvénients de chacun.
 |  OS SERVEUR  |  Avantages  |  Inconvénients  |  
 |---  |:-:  |:-:  |
 |  DEBIAN  | **Stabilité :** système très stable et fiable, idéal pour des serveurs à long terme</br> **Performances :** meilleur performances que Windows</br> **Contrôle :** contrôle total du serveur (optimisation, gestion des permissions…)</br> **Sécurité :** sécurité excellente et mise à jour souvent rapide et faciles</br> **Coût :** Gratuit et open-source | **Connaissance de Linux :** ligne de commande, gestions de services etc.. |  
-|  WINDOWS |  aze  |  aze  |
+|  WINDOWS |  **Facilité d’installation :** utilise un installateurs graphiques, pas besoin de ligne de commande</br> **Compatibilité :** sous windows le logicielle peut être compatible avec d’autres applications (jeux, logiciel de gestion etc..)</br>
+**Interface graphique :** gestion du serveur plus facile pour un utilisateur non techniques   |  **Performance :** Windows et plus gourmand en ressources qu’un serveur Linux</br> **Coût :** nécessite l’achat d’une licence Windows</br> **Optimisation :** moins optimisé pour les services de fond (mumble est un service de fond)</br> **Sécurité :** moins sûr qu’un serveur Linux pour un hébergement à long terme  |
 
 <h2 id="Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</h2>
 
