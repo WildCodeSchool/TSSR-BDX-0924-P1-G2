@@ -36,7 +36,7 @@ Le projet Mumble est composé d'Anthony Vidal et Mindy Sétham qui partagent à 
 Pour rappel, voici les responsabilités et roles de ces deux postes: 
 
 Le **Product Owner** veille à la satisfaction des demandes du client, c'est un chef de projet en mode agile, c'est à dire qu'il va chercher à changer et améliorer continuellement le projet jusqu'a satisfaction finale du client. Il fait la liaison entre les différentes parties qui composent le projet.  
-Le **Scrum Master** lui veille, aux bonnes applications de méthode de travail. Il va superviser l'équipe de travail et l'aider grâce à ses enseignements et conseils.
+Le **Scrum Master** lui veille, aux bonnes applications de méthode de travail. Il va superviser l'équipe de travail et l'aider grâce à ses enseignements et conseils.  
 Pour la première semaine, Mindy prendra le rôle de Product Owner, et la semaine suivante, ce sera le rôle d'Anthony.
 
 <h2 id="Choix techniques et prérequis">Choix techniques et prérequis</h2>
