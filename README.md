@@ -41,7 +41,7 @@ Pour la première semaine, Mindy prendra le rôle de Product Owner, et la semain
 
 <h2 id="Choix techniques et prérequis">Choix techniques et prérequis</h2>
 
-#### Choix techniques :
+#### Choix techniques :
 
 Dans le cadre de la sélection du serveur et afin de répondre aux exigences du client, nous avons examiné deux types de systèmes d'exploitation : Debian et Windows.
 
