@@ -1,10 +1,7 @@
-Mise en place du serveur vocal Mumble
+## Mise en place du serveur vocal Mumble
 
 [![https://www.mumble.info/](https://www.mumble.info/css/mumble.svg)](https://www.mumble.info)
 
-<a href="https://www.mumble.info/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Icons_mumble.svg" alt="Description de l'image">
-</a>
 
 
 Sommaire
