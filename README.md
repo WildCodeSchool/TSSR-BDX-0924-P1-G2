@@ -8,7 +8,7 @@ Sommaire
 <li><a href="#Présentation du projet et objectifs finaux">Présentation du projet et objectifs finaux</a></li>
 <li><a href="#Introduction et mise en contexte">Introduction et mise en contexte</a></li>
 <li><a href="#Membres du groupe de projet">Membres du groupe de projet</a></li>
-<li><a href="#Choix techniques et prérequis">Choix techniques et prérequis</a></li>
+<li><a href="#Choix techniques">Choix techniques</a></li>
 <li><a href="#Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</a></li>
 <li><a href="#Solutions trouvées">Solutions et alternatives trouvées</a></li>
 <li><a href="#Améliorations possibles">Améliorations possibles : suggestions d’améliorations futures</a></li>
@@ -39,9 +39,7 @@ Le **Product Owner** veille à la satisfaction des demandes du client, c'est un 
 Le **Scrum Master** lui veille, aux bonnes applications de méthode de travail. Il va superviser l'équipe de travail et l'aider grâce à ses enseignements et conseils.  
 Pour la première semaine, Mindy prendra le rôle de Product Owner, et la semaine suivante, ce sera le rôle d'Anthony.
 
-<h2 id="Choix techniques et prérequis">Choix techniques et prérequis</h2>
-
-#### Choix techniques :
+<h2 id="Choix techniques">Choix techniques</h2>
 
 Dans le cadre de la sélection du serveur et afin de répondre aux exigences du client, nous avons examiné deux types de systèmes d'exploitation : Debian et Windows.
 
@@ -53,17 +51,6 @@ Nous présentons ci-après les avantages et les inconvénients de chacun.
 |  WINDOWS |  **Facilité d’installation :** utilise un installateurs graphiques, pas besoin de ligne de commande</br> **Compatibilité :** sous windows le logicielle peut être compatible avec d’autres applications (jeux, logiciel de gestion etc..)</br>**Interface graphique :** gestion du serveur plus facile pour un utilisateur non techniques   |  **Performance :** Windows et plus gourmand en ressources qu’un serveur Linux</br> **Coût :** nécessite l’achat d’une licence Windows</br> **Optimisation :** moins optimisé pour les services de fond (mumble est un service de fond)</br> **Sécurité :** moins sûr qu’un serveur Linux pour un hébergement à long terme  |
   
 En prenant en considération les avantages et les inconvénients, tout en respectant les exigences du client, nous avons décidé de choisir Debian comme système d'exploitation pour notre serveur. En effet, malgré un inconvénient majeur, Debian présente tous les atouts nécessaires à la réussite du projet.  
-
-#### Prérequis techniques  
-
-_**Application :**_ MUMBLE  
-_**Serveur :**_ Debian 12  
-_**Client (minimum 2):**_ Windows 10 / Ubuntu 24.04  
-**MUMBLE**  ne nécessite pratiquement :  
-- aucune ressource système  
-- aucune puissance de processeur  
-- la mémoire principale est à peine utilisée
-- Seul un microphone est nécessaire pour participer aux conversations.
 
 
 <h2 id="Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</h2>
