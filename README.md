@@ -2,7 +2,7 @@ Mise en place du serveur vocal Mumble
 
 Sommaire
 <li><a href="#Présentation du projet et objectifs finaux">Présentation du projet et objectifs finaux</a></li>
-<li><a href="#Introduction">Introduction</a></li>
+<li><a href="#Introduction et mise en contexte">Introduction et mise en contexte</a></li>
 <li><a href="#Membres du groupe de projet">Membres du groupe de projet</a></li>
 <li><a href="#Choix techniques">Choix techniques</a></li>
 <li><a href="#Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</a></li>
@@ -21,7 +21,7 @@ Cet historique devra pouvoir être accessible sur simple demande de l'administra
 
 La deadline pour la mise en place est le 18 Octobre.
 
-<h2 id="Introduction">Introduction</h2>
+<h2 id="Introduction et mise en contexte">Introduction et mise en contexte</h2>
 
 Du fait des données sensibles manipulées par la société, le client requiert d'avoir son propre serveur vocal à l'instar de Google, mais sur un modèle privé et gratuit. L'avantage d'avoir son propre serveur est que la gestion est locale, les accès sont controlés uniquement par des personnes autorisées. Le logiciel retenu est Mumble.
 
