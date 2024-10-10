@@ -52,6 +52,8 @@ Nous présentons ci-après les avantages et les inconvénients de chacun.
   
 En prenant en considération les avantages et les inconvénients, tout en respectant les exigences du client, nous avons décidé de choisir Debian comme système d'exploitation pour notre serveur. En effet, malgré un inconvénient majeur, Debian présente tous les atouts nécessaires à la réussite du projet.  
 
+En utilisant Mumble comme application et Debian comme système d'exploitation serveur pour répondre à la demande du client, nous avons constaté que peu de prérequis étaient nécessaires. Vous trouverez ces prérequis détaillés dans la documentation d'administration (INSTALL.md).  
+
 
 <h2 id="Difficultés rencontrées">Difficultés rencontrées : problèmes techniques rencontrés</h2>
 
