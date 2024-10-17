@@ -25,7 +25,8 @@ Cette fenêtre s'ouvrira:
 
 Il faut ensuite indiquer les coordonnées du serveur Debian pour établir la connexion
 
-<img width="369" alt="image" src="https://github.com/user-attachments/assets/0b5f8428-9535-4cf0-b2fb-059db1428157">
+<img width="218" alt="image" src="https://github.com/user-attachments/assets/3949c682-539a-49a2-a11c-f55b0f332199">
+
 
 Au premier démarrage de Mumble, un assistant de configuration s'ouvre 
 
