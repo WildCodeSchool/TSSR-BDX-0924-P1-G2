@@ -53,6 +53,8 @@ Après l’installation, exécutez la configuration initiale :
 
 La première question posée est de savoir si vous souhaitez que le serveur s'exécute au démarrage. Sélectionnez cette option, **Yes** sauf si vous préférez démarrer Mumble manuellement après un redémarrage du serveur.
 
+##### Vous pouvez également modifié ce parametre (voir la <a href="#F.A.Q">F.A.Q</a>)
+
 ![install_img_001](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_001.jpg?raw=true)
 
 Mumble vous demandera alors si vous souhaitez réduire la latence en définissant une priorité CPU et réseau plus élevée.
@@ -141,9 +143,9 @@ Dans le terminal écrire la commande suivante :
 $ su root  
 Mot de passe : (inscrire le mot de passe de root)  
 
-### _2) Paramètre modification :_
+### _2) Autres aramètres de modification :_
 
-Autres paramètres dans le fichier mumble-server.ini :
+Pour le fichier mumble-server.ini :
 
 | Paramètre         | Description                                                                                              |
 |-------------------|----------------------------------------------------------------------------------------------------------|
