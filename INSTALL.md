@@ -69,6 +69,29 @@ Il est temps de le configurer davantage.
 
 ### _3 ) Configuration des paramètres du serveur:_ 
 
+Passons maintenant au paramétrage plus avancé en éditant le fichier de configuration de Murmur à l'adresse /etc/mumble-server.ini.
+
+Ouvrez le fichier avec votre éditeur préféré. Ici, nous utiliserons vim.
+
+**root@SRVLX01:~#** vim /etc/mumble-server.ini
+
+Vous pouvez désormais personnaliser votre installation.
+
+Pour afficher un message de bienvenue :
+
+welcometext = "Bienvenue sur le Mumble de la société Ignetic."
+
+Choix du port (par défaut 64738) :
+
+port=64738
+
+Définir le mot de passe d'accès au serveur (par exemple ici : Azerty1*) :
+
+serverpassword=Azerty1* 
+
+Nombre maximum de clients (nombre de slots du serveur) :
+
+users=25
 
 
 
