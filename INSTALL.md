@@ -53,7 +53,7 @@ Après l’installation, lancez la configuration initiale avec:
 
 La première question posée est de savoir si vous souhaitez que le serveur s'exécute au démarrage. Sélectionnez cette option, **Oui** sauf si vous préférez démarrer Mumble manuellement après un redémarrage du serveur.
 
-##### Vous pouvez également modifié ce parametre (voir la <a href="#F.A.Q">F.A.Q</a>)  
+##### Vous pouvez également modifier ce parametre (voir la <a href="#F.A.Q">F.A.Q</a>)  
 
 ![install_img_001](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_001.jpg?raw=true)
 
@@ -73,13 +73,13 @@ Il est temps de le configurer davantage.
 
 ### _3 ) Configuration des paramètres du serveur:_ 
 
-Passons maintenant au paramétrage plus avancé en éditant le fichier de configuration de Murmur à l'adresse /etc/mumble-server.ini.
+Passons à la configuration avancée en éditant le fichier de configuration Murmur situé à l'adresse suivante : `/etc/mumble-server.ini`.  
 
-Ouvrez le fichier avec votre éditeur préféré. Ici, nous utiliserons vi.
+Ouvrez le fichier avec votre éditeur de texte préféré. Ici, nous utiliserons **vi**.
 
 `root@SRVLX01:~# vi /etc/mumble-server.ini`  
 
-Vous pouvez désormais personnaliser votre installation.
+Vous pouvez maintenant personnaliser les paramètres du serveur.
 
 Pour afficher un message de bienvenue :
 
@@ -93,21 +93,21 @@ Définir l'adresse IP spécifique :
 
 `_host_ = 172.16.10.10`
 
-Définir le mot de passe d'accès au serveur (par exemple ici : Azerty1*) :
+Définir le mot de passe d'accès au serveur (exemple: Azerty1*) :
 
 `_serverpassword_ =Azerty1*` 
 
-Nombre maximum de clients (nombre de slots du serveur) :
+Nombre maximum d'utilisateurs simultanés (nombre de slots) :
 
 `_users_=25`
 
 ![install_img_004](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_004.jpg?raw=true)
 
-##### Vous trouverez d'autre parametres dans la <a href="#F.A.Q">F.A.Q</a>
+##### Vous trouverez d'autre paramètres dans la <a href="#F.A.Q">F.A.Q</a>
 
 ### _4) Ajouter plusieurs salons:_
 
-Vous pouvez créer un salon à l'intérieur d'un salon existant. Faites un clic droit sur le salon qui contiendra le salon que vous souhaitez créer, et cliquez sur Ajouter
+Vous pouvez créer un salon à l'intérieur d'un autre salon existant. Faites un clic droit sur le salon parent et cliquez sur **Ajouter**.
 
 ![install_img_005](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_005.jpg?raw=true)
 
@@ -139,20 +139,20 @@ Vous pouvez également ajouter un mot de passe à un salon.
 
 ### _1) Comment passer root ?_
 
-Dans le terminal écrire la commande suivante :  
+Dans le terminal, exécutez la commande suivante :  
 `$ su root`  
 `Mot de passe : (inscrire le mot de passe de root)`  
 
 ### _2) Désactiver le démarrage du serveur au démarrage_
 
-Vous pouvez utiliser votre système d'initialisation pour le désactiver.
+Pour désactiver le démarrage automatique du serveur, utilisez la commande suivante :
 
 `root@SRVLX01:~# systemctl disable mumble-server`
 
 
-### _3) Autres aramètres de modification :_
+### _3) Autres paramètres de modification :_
 
-Pour le fichier mumble-server.ini :
+Dans le fichier mumble-server.ini :
 
 | Paramètre         | Description                                                                                              |
 |-------------------|----------------------------------------------------------------------------------------------------------|
