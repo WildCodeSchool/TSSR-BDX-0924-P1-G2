@@ -72,3 +72,9 @@ Une fois cette étape finie, le logiciel est installé.
 Vous pouvez l'ouvrir en écrivant sur le terminal:
 
 `mumble`
+
+Pour le premier démarrage, vous allez devoir configurer l'application. Cette fenêtre va s'ouvrir:
+
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/bba17f52-97af-443b-be0d-224e5cf873a1">
+
+
