@@ -71,9 +71,9 @@ Il est temps de le configurer davantage.
 
 Passons maintenant au paramétrage plus avancé en éditant le fichier de configuration de Murmur à l'adresse /etc/mumble-server.ini.
 
-Ouvrez le fichier avec votre éditeur préféré. Ici, nous utiliserons vim.
+Ouvrez le fichier avec votre éditeur préféré. Ici, nous utiliserons vi.
 
-**root@SRVLX01:~#** vim /etc/mumble-server.ini
+**root@SRVLX01:~#** vi /etc/mumble-server.ini
 
 Vous pouvez désormais personnaliser votre installation.
 
