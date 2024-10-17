@@ -15,6 +15,20 @@ Sommaire
 | Mot de passe      | Azerty1*         |  
 | Adresse IP fixe   | 172.16.10.10/24  |  
 
+| Client            | Ubuntu 24.04     |  
+|-------------------|------------------|  
+| Nom               | CLILIN01         |  
+| Compte            | wilder           |  
+| Mot de passe      | Azerty1*         |  
+| Adresse IP fixe   | 172.16.10.20/24  | 
+
+| Client            | Windows 10       |  
+|-------------------|------------------|  
+| Nom               | CLIWIN01         |  
+| Compte            | wilder           |  
+| Mot de passe      | Azerty1*         |  
+| Adresse IP fixe   | 172.16.10.30/24  | 
+
 
 <h2 id="Installation et configuration">Installation et configuration</h2>  
 
@@ -93,7 +107,7 @@ Nombre maximum de clients (nombre de slots du serveur) :
 
 users=25
 
-
+![install_img_004](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_004.jpg?raw=true)
 
 
 
