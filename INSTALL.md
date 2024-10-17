@@ -1,11 +1,12 @@
 # Guide d'installion Mumble
 
 Sommaire
-<li><a href="#Prérequis techniques">Prérequis techniques</a></li>
+<li><a href="#Prérequis techniques serveur">Prérequis techniques serveur</a></li>
 <li><a href="#Installation et configuration">Installation et configuration</a></li>
+<li><a href="#Prérequis techniques client">Prérequis techniques client</a></li>
 <li><a href="#F.A.Q">F.A.Q</a></li>
 
-<h2 id="Prérequis techniques">Prérequis techniques</h2>  
+<h2 id="Prérequis techniques serveur">Prérequis techniques serveur</h2>  
 
 
 | Serveur           | Debian 12        |  
@@ -15,19 +16,6 @@ Sommaire
 | Mot de passe      | Azerty1*         |  
 | Adresse IP fixe   | 172.16.10.10/24  |  
 
-| Client            | Ubuntu 24.04     |  
-|-------------------|------------------|  
-| Nom               | CLILIN01         |  
-| Compte            | wilder           |  
-| Mot de passe      | Azerty1*         |  
-| Adresse IP fixe   | 172.16.10.20/24  | 
-
-| Client            | Windows 10       |  
-|-------------------|------------------|  
-| Nom               | CLIWIN01         |  
-| Compte            | wilder           |  
-| Mot de passe      | Azerty1*         |  
-| Adresse IP fixe   | 172.16.10.30/24  | 
 
 
 <h2 id="Installation et configuration">Installation et configuration</h2>  
@@ -95,6 +83,10 @@ Pour afficher un message de bienvenue :
 
 _welcometext_ = "Bienvenue sur le Mumble de la société Ignetic."
 
+Définir l'adresse IP spécifique :
+
+_host_ = 172.16.10.10
+
 Choix du port (par défaut 64738) :
 
 _port_ = 64738
@@ -110,8 +102,42 @@ _users_=25
 ![install_img_004](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_004.jpg?raw=true)
 
 
+### _4) Ajouter plusieurs salons:_
+
+Comme demandé, 
+
+<h2 id="Prérequis techniques client">Prérequis techniques client</h2> 
 
 
+| Client            | Ubuntu 24.04     |  
+|-------------------|------------------|  
+| Nom               | CLILIN01         |  
+| Compte            | wilder           |  
+| Mot de passe      | Azerty1*         |  
+| Adresse IP fixe   | 172.16.10.20/24  | 
+
+| Client            | Windows 10       |  
+|-------------------|------------------|  
+| Nom               | CLIWIN01         |  
+| Compte            | wilder           |  
+| Mot de passe      | Azerty1*         |  
+| Adresse IP fixe   | 172.16.10.30/24  | 
 
 
 <h2 id="F.A.Q">F.A.Q</h2>  
+
+
+Autres paramètres dans le fichier mumble-server.ini :
+
+| Paramètre         | Description                                                                                              |
+|-------------------|----------------------------------------------------------------------------------------------------------|
+| `autobanAttempts`  | Définissez le nombre de fois qu'une personne peut ne pas parvenir à se connecter au serveur dans un délai donné. |
+| `autobanTimeframe` | Définissez le délai donné pour les tentatives de connexion au serveur.                                    |
+| `autobanTime`      | Définissez la durée de l'interdiction de connexion.                                                       |
+| `logfile`          | Définissez l’emplacement du fichier journal, si vous souhaitez qu’il réside dans un emplacement différent. |
+| `welcometext`      | Définissez le texte qui s'affiche dans le journal de discussion textuelle lorsque vous vous connectez.     |
+| `port`             | Définissez le port auquel vous souhaitez vous connecter et auquel vos utilisateurs souhaitent se connecter.|
+| `serverpassword`   | Définissez un mot de passe que les utilisateurs devront utiliser pour se connecter. Il doit être différent du mot de passe SuperUser. |
+| `bandwidth`        | Définissez la bande passante maximale (en bits par seconde) que chaque utilisateur peut utiliser.          |
+| `users`            | Définissez le nombre maximal d'utilisateurs pouvant se connecter simultanément au serveur.                 |
+
