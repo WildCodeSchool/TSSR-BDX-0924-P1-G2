@@ -53,7 +53,7 @@ Après l’installation, exécutez la configuration initiale :
 
 La première question posée est de savoir si vous souhaitez que le serveur s'exécute au démarrage. Sélectionnez cette option, **Yes** sauf si vous préférez démarrer Mumble manuellement après un redémarrage du serveur.
 
-##### Vous pouvez également modifié ce parametre (voir la <a href="#F.A.Q">F.A.Q</a>)
+##### Vous pouvez également modifié ce parametre (voir la <a href="#F.A.Q">F.A.Q</a>)  
 
 ![install_img_001](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_001.jpg?raw=true)
 
