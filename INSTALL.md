@@ -143,7 +143,14 @@ Dans le terminal écrire la commande suivante :
 $ su root  
 Mot de passe : (inscrire le mot de passe de root)  
 
-### _2) Autres aramètres de modification :_
+### _2) Désactiver le démarrage du serveur au démarrage_
+
+Vous pouvez utiliser votre système d'initialisation pour le désactiver.
+
+**root@SRVLX01:~#** systemctl disable mumble-server
+
+
+### _3) Autres aramètres de modification :_
 
 Pour le fichier mumble-server.ini :
 
