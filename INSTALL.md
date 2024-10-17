@@ -104,7 +104,9 @@ _users_=25
 
 ### _4) Ajouter plusieurs salons:_
 
-Comme demandé, 
+Vous pouvez créer un salon à l'intérieur d'un salon existant. Faites un clic droit sur le salon qui contiendra le salon que vous souhaitez créer, et cliquez sur Ajouter
+
+
 
 <h2 id="Prérequis techniques client">Prérequis techniques client</h2> 
 
