@@ -101,7 +101,7 @@ _users_=25
 
 ![install_img_004](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_004.jpg?raw=true)
 
-Vous trouverez d'autre parametres dans la <a href="#F.A.Q">F.A.Q</a>
+##### Vous trouverez d'autre parametres dans la <a href="#F.A.Q">F.A.Q</a>
 
 ### _4) Ajouter plusieurs salons:_
 
