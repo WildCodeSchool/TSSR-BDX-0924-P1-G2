@@ -101,6 +101,7 @@ _users_=25
 
 ![install_img_004](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_004.jpg?raw=true)
 
+Vous trouverez d'autre parametres dans la <a href="#F.A.Q">F.A.Q</a>
 
 ### _4) Ajouter plusieurs salons:_
 
@@ -134,6 +135,13 @@ Vous pouvez également ajouter un mot de passe à un salon.
 
 <h2 id="F.A.Q">F.A.Q</h2>  
 
+### _1) Comment passer root ?_
+
+Dans le terminal écrire la commande suivante :  
+$ su root  
+Mot de passe : (inscrire le mot de passe de root)  
+
+### _2) Paramètre modification :_
 
 Autres paramètres dans le fichier mumble-server.ini :
 
