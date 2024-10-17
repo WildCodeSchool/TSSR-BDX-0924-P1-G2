@@ -1,3 +1,5 @@
+WINDOWS
+
 Se rendre sur le site mumble.info
 
 cliquer sur "download" 
@@ -55,4 +57,18 @@ Vous avez ensuite fini la configuration Mumble, vous pouvez toucher "terminer"
 <img width="238" alt="image" src="https://github.com/user-attachments/assets/527c2902-48bf-480b-837b-1826a5403840">
 
 
+UBUNTU
 
+L'installation sur Ubuntu, se fait directement en ligne de commande, pour se faire vous devez ouvrir votre terminal et écrire
+
+`sudo apt install mumble`
+
+Ubuntu vous demande de confirmer l'installation 
+
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/a450d307-56c4-4eff-8685-9d371551bc6c">
+
+Une fois cette étape finie, le logiciel est installé.
+
+Vous pouvez l'ouvrir en écrivant sur le terminal:
+
+`mumble`
