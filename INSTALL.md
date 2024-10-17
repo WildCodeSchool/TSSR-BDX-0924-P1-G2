@@ -29,11 +29,11 @@ Pour l'installation du serveur Mumble, voici les étapes à suivre :
 
 Avant l'installation, il est conseillé de mettre à jour votre système :
 
-**root@SRVLX01:~#** apt-get update && apt-get upgrade
+`root@SRVLX01:~# apt-get update && apt-get upgrade`
 
 Pour installer Mumble, c'est extrêmement facile puisque le paquet est présent dans les dépôts officiels de Debian. Ilsuffit d'exécuter une simple commande apt :
 
-**root@SRVLX01:~#** apt-get install mumble-server
+`root@SRVLX01:~# apt-get install mumble-server`
 
 Répondez "oui" lorsque le shell vous demande de confirmer l'installation.  
 
@@ -42,14 +42,14 @@ Mumble est maintenant installé !
 Avant de le configurer, pensez à vérifier votre pare-feu.
 Si votre serveur est équipé d'un pare-feu, il faut autoriser le trafic Mumble. Voici les commandes pour le pare-feu iptables (adaptez le port si nécessaire) :
 
-**root@SRVLX01:~#** iptables -I INPUT -p tcp --dport 64738 -j ACCEPT  
-**root@SRVLX01:~#** iptables -I INPUT -p udp --dport 64738 -j ACCEPT  
+`root@SRVLX01:~# iptables -I INPUT -p tcp --dport 64738 -j ACCEPT`  
+`root@SRVLX01:~# iptables -I INPUT -p udp --dport 64738 -j ACCEPT`  
 
 ### _2 ) Configuration initiale :_ 
 
 Après l’installation, lancez la configuration initiale avec:
 
-**root@SRVLX01:~#** dpkg-reconfigure mumble-server
+`root@SRVLX01:~# dpkg-reconfigure mumble-server`  
 
 La première question posée est de savoir si vous souhaitez que le serveur s'exécute au démarrage. Sélectionnez cette option, **Oui** sauf si vous préférez démarrer Mumble manuellement après un redémarrage du serveur.
 
@@ -77,29 +77,29 @@ Passons maintenant au paramétrage plus avancé en éditant le fichier de config
 
 Ouvrez le fichier avec votre éditeur préféré. Ici, nous utiliserons vi.
 
-**root@SRVLX01:~#** vi /etc/mumble-server.ini
+`root@SRVLX01:~# vi /etc/mumble-server.ini`  
 
 Vous pouvez désormais personnaliser votre installation.
 
 Pour afficher un message de bienvenue :
 
-_welcometext_ = "Bienvenue sur le Mumble de la société Ignetic."
-
-Définir l'adresse IP spécifique :
-
-_host_ = 172.16.10.10
+`_welcometext_ = "Bienvenue sur le Mumble de la société Ignetic."`
 
 Choix du port (par défaut 64738) :
 
-_port_ = 64738
+`_port_ = 64738`
+
+Définir l'adresse IP spécifique :
+
+`_host_ = 172.16.10.10`
 
 Définir le mot de passe d'accès au serveur (par exemple ici : Azerty1*) :
 
-_serverpassword_ =Azerty1* 
+`_serverpassword_ =Azerty1*` 
 
 Nombre maximum de clients (nombre de slots du serveur) :
 
-_users_=25
+`_users_=25`
 
 ![install_img_004](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_004.jpg?raw=true)
 
@@ -140,14 +140,14 @@ Vous pouvez également ajouter un mot de passe à un salon.
 ### _1) Comment passer root ?_
 
 Dans le terminal écrire la commande suivante :  
-$ su root  
-Mot de passe : (inscrire le mot de passe de root)  
+`$ su root`  
+`Mot de passe : (inscrire le mot de passe de root)`  
 
 ### _2) Désactiver le démarrage du serveur au démarrage_
 
 Vous pouvez utiliser votre système d'initialisation pour le désactiver.
 
-**root@SRVLX01:~#** systemctl disable mumble-server
+`root@SRVLX01:~# systemctl disable mumble-server`
 
 
 ### _3) Autres aramètres de modification :_
