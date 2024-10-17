@@ -17,3 +17,15 @@ Avant de continuer, une pop-up va s'ouvrir et vous demander "Voulez-vous autoris
 Ensuite cliquez sur "terminer" pour finaliser l'installation.
 
 
+Vous pouvez ainsi ouvrir l'application Mumble sur votre poste 
+
+Cette fenêtre s'ouvrira:
+
+<img width="372" alt="image" src="https://github.com/user-attachments/assets/04c78fc7-9f30-4b44-95b9-2c1e0c305777">
+
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/f1efd88b-d30a-474f-bc89-3caeba080e89">
+
+
+<img width="369" alt="image" src="https://github.com/user-attachments/assets/0b5f8428-9535-4cf0-b2fb-059db1428157">
+
+
