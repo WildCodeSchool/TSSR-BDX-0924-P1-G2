@@ -1,4 +1,4 @@
-# Guide d'installion Mumble
+# Guide d'installation Mumble
 
 Sommaire
 <li><a href="#Prérequis techniques serveur">Prérequis techniques serveur</a></li>
@@ -20,10 +20,10 @@ Sommaire
 
 <h2 id="Installation et configuration">Installation et configuration</h2>  
 
-⚠️ **Attention :** *Toutes les commandes sont à exécuter en tant que root !*  
-##### ( Pour passer root voir la <a href="#F.A.Q">F.A.Q</a> )  
+⚠️ **Attention :** _Toutes les commandes doivent être exécuteées en tant que root !_  
+##### ( Pour passer root, voir la <a href="#F.A.Q">F.A.Q</a> )  
 
-Pour l'installation du serveur mumble voici les étapes à suivre :  
+Pour l'installation du serveur Mumble, voici les étapes à suivre :  
 
 ### _1 ) Installation :_  
 
@@ -31,27 +31,27 @@ Avant l'installation, il est conseillé de mettre à jour votre système :
 
 **root@SRVLX01:~#** apt-get update && apt-get upgrade
 
-Pour installer Murmur, c'est extrêmement facile puisque le paquet est présent dans les dépôts officiels de Debian. Vous n'avez qu'à procéder à un simple apt :
+Pour installer Mumble, c'est extrêmement facile puisque le paquet est présent dans les dépôts officiels de Debian. Ilsuffit d'exécuter une simple commande apt :
 
 **root@SRVLX01:~#** apt-get install mumble-server
 
-Répondez oui lorsque le shell vous demande confirmation pour l'installation.  
+Répondez "oui" lorsque le shell vous demande de confirmer l'installation.  
 
-Mumble est installé !
+Mumble est maintenant installé !
 
-Mais avant de le configuré, pensez au pare-feu.
-Si votre serveur est équipé d'un pare-feu, il faut autoriser le trafic Mumble à travers celui-ci. Voici donc les commandes à saisir pour le pare-feu iptables (pensez à adapter le port si vous n'utilisez pas celui par défaut) :
+Avant de le configurer, pensez à vérifier votre pare-feu.
+Si votre serveur est équipé d'un pare-feu, il faut autoriser le trafic Mumble. Voici les commandes pour le pare-feu iptables (adaptez le port si nécessaire) :
 
 **root@SRVLX01:~#** iptables -I INPUT -p tcp --dport 64738 -j ACCEPT  
 **root@SRVLX01:~#** iptables -I INPUT -p udp --dport 64738 -j ACCEPT  
 
 ### _2 ) Configuration initiale :_ 
 
-Après l’installation, exécutez la configuration initiale :
+Après l’installation, lancez la configuration initiale avec:
 
 **root@SRVLX01:~#** dpkg-reconfigure mumble-server
 
-La première question posée est de savoir si vous souhaitez que le serveur s'exécute au démarrage. Sélectionnez cette option, **Yes** sauf si vous préférez démarrer Mumble manuellement après un redémarrage du serveur.
+La première question posée est de savoir si vous souhaitez que le serveur s'exécute au démarrage. Sélectionnez cette option, **Oui** sauf si vous préférez démarrer Mumble manuellement après un redémarrage du serveur.
 
 ##### Vous pouvez également modifié ce parametre (voir la <a href="#F.A.Q">F.A.Q</a>)  
 
@@ -61,9 +61,9 @@ Mumble vous demandera alors si vous souhaitez réduire la latence en définissan
 
 ![install_img_002](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_002.jpg?raw=true)
 
-Si vous souhaitez que Murmur ait la priorité sur les autres applications sur le serveur, vous pouvez répondre Oui à cette question.
+Si vous souhaitez que Mumble ait la priorité sur les autres applications sur le serveur, vous pouvez répondre Oui à cette question.
 
-Ensuite, il vous sera demandé de définir un mot de passe SuperUser . Murmur dispose d'un compte SuperUser qui vous permet de modifier les paramètres du serveur à partir du client Mumble. Vous pouvez le définir avec le mot de passe de votre choix.
+Ensuite, il vous sera demandé de définir un mot de passe SuperUser . Mumble dispose d'un compte SuperUser qui vous permet de modifier les paramètres du serveur à partir du client Mumble. Vous pouvez le définir avec le mot de passe de votre choix.
 
 ![install_img_003](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_003.jpg?raw=true)
 
