@@ -106,6 +106,12 @@ _users_=25
 
 Vous pouvez créer un salon à l'intérieur d'un salon existant. Faites un clic droit sur le salon qui contiendra le salon que vous souhaitez créer, et cliquez sur Ajouter
 
+![install_img_005](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_005.jpg?raw=true)
+
+Vous pouvez également ajouter un mot de passe à un salon.
+
+![install_img_006](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_006.jpg?raw=true)
+
 
 
 <h2 id="Prérequis techniques client">Prérequis techniques client</h2> 
