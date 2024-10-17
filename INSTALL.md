@@ -93,19 +93,19 @@ Vous pouvez désormais personnaliser votre installation.
 
 Pour afficher un message de bienvenue :
 
-welcometext = "Bienvenue sur le Mumble de la société Ignetic."
+_welcometext_ = "Bienvenue sur le Mumble de la société Ignetic."
 
 Choix du port (par défaut 64738) :
 
-port=64738
+_port_ = 64738
 
 Définir le mot de passe d'accès au serveur (par exemple ici : Azerty1*) :
 
-serverpassword=Azerty1* 
+_serverpassword_ =Azerty1* 
 
 Nombre maximum de clients (nombre de slots du serveur) :
 
-users=25
+_users_=25
 
 ![install_img_004](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_004.jpg?raw=true)
 
