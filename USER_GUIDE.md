@@ -1,27 +1,15 @@
-WINDOWS
 
-Se rendre sur le site mumble.info
-
-cliquer sur "download" 
-
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/9853defa-bbe0-4a49-a842-8eea2cd06f38">
-
-Sélectionner la version "Windows Server
-
-<img width="260" alt="image" src="https://github.com/user-attachments/assets/f69a36a4-249c-429f-80d2-054bd3fc120e">
-
-Accepter les conditions d'utilisation et cliquer sur "Installer"
-
-<img width="418" alt="image" src="https://github.com/user-attachments/assets/78aa3dfa-794f-49b4-acff-e3909bd633db">
-
-Avant de continuer, une pop-up va s'ouvrir et vous demander "Voulez-vous autoriser cette application à apporter des modifications?" cliquez sur oui pour continuer.
-
-Ensuite cliquez sur "terminer" pour finaliser l'installation.
+<li><a href="#Configuration de Mumble">Configuration de Mumble</a></li>
+<li><a href="#Fonctionnalités de base">Fonctionnalités de base</a></li>
+<li><a href="#Fonctionnalités avancées">Fonctionnalités avancées</a></li>
+<li><a href="#F.A.Q">F.A.Q</a></li>
 
 
-Vous pouvez ainsi ouvrir l'application Mumble sur votre poste 
+<h2 id="Configuration de Mumble">Configuration de Mumble</h2>  
 
-Cette fenêtre s'ouvrira:
+
+
+Une fois l'installation de Mumble terminée, vous allez pouvoir ouvrir l'application et démarrer la configuration.
 
 <img width="372" alt="image" src="https://github.com/user-attachments/assets/04c78fc7-9f30-4b44-95b9-2c1e0c305777">
 
@@ -29,6 +17,9 @@ Il faut ensuite indiquer les coordonnées du serveur Debian pour établir la con
 
 <img width="218" alt="image" src="https://github.com/user-attachments/assets/3949c682-539a-49a2-a11c-f55b0f332199">
 
+
+
+<h2 id="Fonctionnalités de base">Fonctionnalités de base</h2>
 
 Au premier démarrage de Mumble, un assistant de configuration s'ouvre 
 
@@ -57,23 +48,6 @@ Vous avez ensuite fini la configuration Mumble, vous pouvez toucher "terminer"
 <img width="238" alt="image" src="https://github.com/user-attachments/assets/527c2902-48bf-480b-837b-1826a5403840">
 
 
-UBUNTU
-
-L'installation sur Ubuntu, se fait directement en ligne de commande, pour se faire vous devez ouvrir votre terminal et écrire
-
-`sudo apt install mumble`
-
-Ubuntu vous demande de confirmer l'installation 
-
-<img width="404" alt="image" src="https://github.com/user-attachments/assets/a450d307-56c4-4eff-8685-9d371551bc6c">
-
-Une fois cette étape finie, le logiciel est installé.
-
-Vous pouvez l'ouvrir en écrivant sur le terminal:
-
-`mumble`
-
-Pour le premier démarrage, vous allez devoir configurer l'application. 
 
 Une fois l'application ouverte, voici à quoi ressemble l'interface.
 
@@ -95,7 +69,7 @@ l'écran de Mumble lorsque quelqu'un parle.
 
 Sur "server", vous pourrez configurer le serveur sur lequel vous allez 
 
-Fonctionnalités avancées
+<h2 id="Fonctionnalités avancées">Fonctionnalités avancées</h2> 
 
 Si vous retournez dans les paramètres, vous pouvez cliquer sur "avancé". Et cela ouvrira d'autres fonctionnalités.
 
