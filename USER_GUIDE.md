@@ -1,7 +1,8 @@
 # Fiche utilisateur Mumble
 
 
-Sommaire
+## Sommaire
+
 <li><a href="#Configuration de Mumble">Configuration de Mumble</a></li>
 <li><a href="#Fonctionnalités de base">Fonctionnalités de base</a></li>
 <li><a href="#Fonctionnalités avancées">Fonctionnalités avancées</a></li>
