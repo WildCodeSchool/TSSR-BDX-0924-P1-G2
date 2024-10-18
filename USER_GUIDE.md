@@ -33,13 +33,13 @@ Au premier démarrage de Mumble, un assistant de configuration s'ouvre
 
 
 
-Ensuite vient la configuration du micro, ainsi que des hauts-parleur, si vous possédez plusieurs micros, vous pouvez sélectionner celui que vous souhaitez utiliser:
+Ensuite vient la configuration du micro, ainsi que des haut-parleur, si vous possédez plusieurs micros, vous pouvez sélectionner celui que vous souhaitez utiliser:
 
 <img width="236" alt="image" src="https://github.com/user-attachments/assets/f27b5efb-3c5a-4db0-9f68-1e4f5f7a2b7a">
 
 
 
-Après avoir cliqué sur suivant, vous allez pouvoir régler le son de votre micro. Vous devez jouer avec le curseur, pour que quand vous parliez le son de votre voix soit dans la couleur verte.
+Après avoir cliqué sur suivant, vous allez pouvoir régler le son de votre micro. Vous devez jouer avec le curseur, pour que quand vous parlez le son de votre voix soit dans la couleur verte.
 
 <img width="236" alt="image" src="https://github.com/user-attachments/assets/6f1ce87d-0c8a-47f9-814e-0a977b7c340b">
 
@@ -77,7 +77,7 @@ Dans l'onglet "configure", voici ce que l'on peut trouver:
 
 
 
-Vous pouvez par exemple configuer la disposition de l'interface.
+Vous pouvez par exemple configurer la disposition de l'interface.
 
 ![image](https://github.com/user-attachments/assets/b7abad36-3287-43c3-b898-21425e8ed595)
 
@@ -96,13 +96,13 @@ Sur "server", vous pourrez configurer le serveur sur lequel vous allez
 
 Si vous retournez dans les paramètres, vous pouvez cliquer sur "avancé". Et cela ouvrira d'autres fonctionnalités.
 
-Ici, par exemple, pour l'interface utilisateur, vous avez en plus la possibilité d'élargir le salon lorsque qu'il y a une personne qui se met à parler.
+Ici, par exemple, pour l'interface utilisateur, vous avez en plus la possibilité d'élargir le salon lorsque quand une personne se met à parler.
 
 ![image](https://github.com/user-attachments/assets/1439b90a-0a6f-4400-a71e-570635b78524)
 
 
 
-Pour l'entrée audio, là ou il n'y avait que la qualité de la voix à configurer, il y a beaucoup plus de réglages, comme la suppression de bruit, plus de réglages audio afin d'avoir une meilleure qualité de son et de voix.
+Pour l'entrée audio, là où il n'y avait que la qualité de la voix à configurer, il y a beaucoup plus de réglages, comme la suppression de bruit, plus de réglages audio afin d'avoir une meilleure qualité de son et de voix.
 
 ![image](https://github.com/user-attachments/assets/89ebd1ba-2fb9-45b2-9c58-e1b05d6307d3)
 
@@ -117,8 +117,8 @@ Dans "server" vérifiez que l'adresse Ip est bien celle reliée au serveur que v
 
 ### _2) Je n'entends pas les autres parler
 
-Vérifiez que le casque est bien branché s'il y en a un, et vérifiez que la sortie audio est sur le bon péréphique de sortie.
+Vérifiez que le casque est bien branché s'il y en a un, et vérifiez que la sortie audio est sur le bon périphérique de sortie.
 
 ### _3) On ne m'entend pas parler
 
-Vérifiez via les paramètres, puis "entrée audio" que lorsque vous parlez, votre voix est bien dans la couleur verte.
+Vérifiez via les paramètres, puis "entrée audio" que lorsque vous parlez, votre voix est bien dans la zone verte.
