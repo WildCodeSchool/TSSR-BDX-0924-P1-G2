@@ -21,7 +21,7 @@ Sommaire
 
 <h2 id="Installation et configuration">Installation et configuration</h2>  
 
-⚠️ **Attention :** _Toutes les commandes doivent être exécuteées en tant que root !_  
+⚠️ **Attention :** _Toutes les commandes doivent être exécutées en tant que root !_  
 ##### ( Pour passer root, voir la <a href="#F.A.Q">F.A.Q</a> )  
 
 Pour l'installation du serveur Mumble, voici les étapes à suivre :  
@@ -32,7 +32,7 @@ Avant l'installation, il est conseillé de mettre à jour votre système :
 
 `root@SRVLX01:~# apt-get update && apt-get upgrade`
 
-Pour installer Mumble, c'est extrêmement facile puisque le paquet est présent dans les dépôts officiels de Debian. Ilsuffit d'exécuter une simple commande apt :
+Pour installer Mumble, c'est extrêmement facile puisque le paquet est présent dans les dépôts officiels de Debian. Il suffit d'exécuter une simple commande apt :
 
 `root@SRVLX01:~# apt-get install mumble-server`
 
@@ -54,7 +54,7 @@ Après l’installation, lancez la configuration initiale avec:
 
 La première question posée est de savoir si vous souhaitez que le serveur s'exécute au démarrage. Sélectionnez cette option, **Oui** sauf si vous préférez démarrer Mumble manuellement après un redémarrage du serveur.
 
-##### Vous pouvez également modifier ce parametre (voir la <a href="#F.A.Q">F.A.Q</a>)  
+##### Vous pouvez également modifier ce paramètre (voir la <a href="#F.A.Q">F.A.Q</a>)  
 
 ![install_img_001](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_001.jpg?raw=true)
 
@@ -64,7 +64,7 @@ Mumble vous demandera alors si vous souhaitez réduire la latence en définissan
 
 Si vous souhaitez que Mumble ait la priorité sur les autres applications sur le serveur, vous pouvez répondre Oui à cette question.
 
-Ensuite, il vous sera demandé de définir un mot de passe SuperUser . Mumble dispose d'un compte SuperUser qui vous permet de modifier les paramètres du serveur à partir du client Mumble. Vous pouvez le définir avec le mot de passe de votre choix.
+Ensuite, il vous sera demandé de définir un mot de passe SuperUser. Mumble dispose d'un compte SuperUser qui vous permet de modifier les paramètres du serveur à partir du client Mumble. Vous pouvez le définir avec le mot de passe de votre choix.
 
 ![install_img_003](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_003.jpg?raw=true)
 
@@ -98,13 +98,13 @@ Définir le mot de passe d'accès au serveur (exemple: Azerty1*) :
 
 `_serverpassword_ =Azerty1*` 
 
-Nombre maximum d'utilisateurs simultanés (nombre de slots) :
+Nombre maximal d'utilisateurs simultanés (nombre de slots) :
 
 `_users_=25`
 
 ![install_img_004](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/SRVLX/install_img_004.jpg?raw=true)
 
-##### Vous trouverez d'autre paramètres dans la <a href="#F.A.Q">F.A.Q</a>
+##### Vous trouverez d'autres paramètres dans la <a href="#F.A.Q">F.A.Q</a>
 
 ### _4) Ajouter plusieurs salons:_
 
@@ -140,7 +140,7 @@ Vous pouvez également ajouter un mot de passe à un salon.
 
 ### _1) Linux (Ubuntu) :_
 
-L'installation sur Ubuntu, se fait directement en ligne de commande, pour se faire vous devez ouvrir votre terminal et écrire :
+L'installation sur Ubuntu, se fait directement en ligne de commande, pour ce faire vous devez ouvrir votre terminal et écrire :
 
 `sudo apt install mumble`
 
