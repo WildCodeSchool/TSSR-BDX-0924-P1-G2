@@ -61,5 +61,15 @@ En utilisant Mumble comme application et Debian comme système d'exploitation se
 
 <h2 id="Améliorations possibles">Améliorations possibles : suggestions d’améliorations futures</h2>
 
+Avec du temps en plus sur ce projet, nous aurions pu vous proposer la mise en place d'une journalisation et d'une surveillance des sessions.
+
+1) Comment configurer les journaux (logs).
+2) Quels outils de surveillance utiliser.
+3) Comment automatiser la surveillance.
+4) Établir des vérifications régulières des journaux.
+
+
+
+
 
 
