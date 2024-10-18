@@ -73,8 +73,39 @@ Vous pouvez l'ouvrir en écrivant sur le terminal:
 
 `mumble`
 
-Pour le premier démarrage, vous allez devoir configurer l'application. Cette fenêtre va s'ouvrir:
+Pour le premier démarrage, vous allez devoir configurer l'application. 
 
-<img width="353" alt="image" src="https://github.com/user-attachments/assets/bba17f52-97af-443b-be0d-224e5cf873a1">
+Une fois l'application ouverte, voici à quoi ressemble l'interface.
+
+![image](https://github.com/user-attachments/assets/c09e9b73-13bb-4a23-ab03-dffa07d0a8b2)
+
+Il y a 4 onglets: un "server", un "self, un "configure" et un "help".
+
+Dans l'onglet "configure", voici ce que l'on peut trouver:
+
+![image](https://github.com/user-attachments/assets/50cafda1-e47c-4a94-a73b-26042a337760
+
+Vous pouvez par exemple configuer la disposition de l'interface.
+
+![image](https://github.com/user-attachments/assets/b7abad36-3287-43c3-b898-21425e8ed595)
+
+Vous pourrez aussi configurer la qualité audio, mettre en place des raccourcis, comme par exemple couper le son en appuyant sur une touche. Pour le
+réseau, vous pouvez configurer la connexion automatique au démarrage au dernier serveur. Il est aussi possible de configurer l'overlay, cela permet d'afficher en pop-up,
+l'écran de Mumble lorsque quelqu'un parle.
+
+Sur "server", vous pourrez configurer le serveur sur lequel vous allez 
+
+Fonctionnalités avancées
+
+Si vous retournez dans les paramètres, vous pouvez cliquer sur "avancé". Et cela ouvrira d'autres fonctionnalités.
+
+Ici, par exemple, pour l'interface utilisateur, vous avez en plus la possibilité d'élargir le salon lorsque qu'il y a une personne qui se met à parler.
+
+
+![image](https://github.com/user-attachments/assets/1439b90a-0a6f-4400-a71e-570635b78524)
+
+Pour l'entrée audio, là ou il n'y avait que la qualité de la voix à configurer, il y a beaucoup plus de réglages, comme la suppression de bruit, plus de réglages audio afin d'avoir une meilleure qualité de son et de voix.
+
+![image](https://github.com/user-attachments/assets/89ebd1ba-2fb9-45b2-9c58-e1b05d6307d3)
 
 
