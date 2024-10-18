@@ -140,7 +140,41 @@ Vous pouvez également ajouter un mot de passe à un salon.
 
 ### _1) Linux (Ubuntu) :_
 
+L'installation sur Ubuntu, se fait directement en ligne de commande, pour se faire vous devez ouvrir votre terminal et écrire :
+
+`sudo apt install mumble`
+
+Ubuntu vous demande de confirmer l'installation
+
+![install_img_101 ](https://github.com/user-attachments/assets/a450d307-56c4-4eff-8685-9d371551bc6c)  
+
+Une fois cette étape finie, le logiciel est installé.  
+
+Vous pouvez l'ouvrir en écrivant sur le terminal:  
+
+`mumble`  
+
 ### _2) Windows 10 :_
+
+Se rendre sur le site mumble.info
+
+Cliquer sur **Download**  
+
+![img_install_102](https://github.com/user-attachments/assets/9853defa-bbe0-4a49-a842-8eea2cd06f38)
+
+Sélectionner la version **Windows Client**
+
+![img_intall_103](https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G2/blob/main/Img_SRC/CLILX/install_img_102.jpg?raw=true)
+
+Accepter les conditions d'utilisation et cliquer sur **Installer**
+
+![img_install_104](https://github.com/user-attachments/assets/78aa3dfa-794f-49b4-acff-e3909bd633db)
+
+Avant de continuer, une pop-up va s'ouvrir et vous demander "Voulez-vous autoriser cette application à apporter des modifications?" cliquez sur oui pour continuer.
+
+Ensuite cliquez sur "terminer" pour finaliser l'installation.
+
+Vous pouvez ainsi ouvrir l'application Mumble sur votre poste.  
 
 <h2 id="F.A.Q">F.A.Q</h2>  
 
