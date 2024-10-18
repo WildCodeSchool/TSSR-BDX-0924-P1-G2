@@ -111,4 +111,14 @@ Pour l'entrée audio, là ou il n'y avait que la qualité de la voix à configur
 <h2 id="F.A.Q">F.A.Q</h2>  
 
 
+### _1) Je n'arrive pas à me connecter au serveur
 
+Dans "server" vérifiez que l'adresse Ip est bien celle reliée au serveur que vous tentez d'intégrer.
+
+### _2) Je n'entends pas les autres parler
+
+Vérifiez que le casque est bien branché s'il y en a un, et vérifiez que la sortie audio est sur le bon péréphique de sortie.
+
+### _3) On ne m'entend pas parler
+
+Vérifiez via les paramètres, puis "entrée audio" que lorsque vous parlez, votre voix est bien dans la couleur verte.
