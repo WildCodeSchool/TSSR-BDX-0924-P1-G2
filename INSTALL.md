@@ -4,6 +4,7 @@ Sommaire
 <li><a href="#Prérequis techniques serveur">Prérequis techniques serveur</a></li>
 <li><a href="#Installation et configuration">Installation et configuration</a></li>
 <li><a href="#Prérequis techniques client">Prérequis techniques client</a></li>
+<li><a href="#Installation client">Installation client</a></li>
 <li><a href="#F.A.Q">F.A.Q</a></li>
 
 <h2 id="Prérequis techniques serveur">Prérequis techniques serveur</h2>  
@@ -134,6 +135,12 @@ Vous pouvez également ajouter un mot de passe à un salon.
 | Mot de passe      | Azerty1*         |  
 | Adresse IP fixe   | 172.16.10.30/24  | 
 
+
+<h2 id="Installation client">Installation client</h2>
+
+### _1) Linux (Ubuntu) :_
+
+### _2) Windows 10 :_
 
 <h2 id="F.A.Q">F.A.Q</h2>  
 
