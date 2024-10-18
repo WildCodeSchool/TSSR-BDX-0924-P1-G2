@@ -60,11 +60,9 @@ En utilisant Mumble comme application et Debian comme système d'exploitation se
 Sur ce projet, nous avons rencontré des difficultés, principalement liées à la compréhension globale des tâches à effectuer. En effet, bien que nous ayons compris qu'il s'agissait de livrer de la documentation, nous souhaitions absolument tester les installations pour être sûrs de ce dont nous parlions. Cependant, cela nous a fait perdre beaucoup de temps en raison de problèmes techniques, notamment l'installation de machines virtuelles avec une connexion.
 
 
-
 <h2 id="Solutions trouvées">Solutions et alternatives trouvées</h2>
 
-
-
+À la mi-deuxième semaine, nous avons pris la décision de ne plus tester et de mieux nous concentrer sur la recherche d'informations, la documentation et les vidéos explicatives sur l'installation et l'utilisation du logiciel. Cela nous a permis de regrouper les meilleures informations pour terminer le projet de documentation dans les délais.  
 
 <h2 id="Améliorations possibles">Améliorations possibles : suggestions d’améliorations futures</h2>
 
