@@ -1,3 +1,7 @@
+# Fiche utilisateur Mumble
+
+
+Sommaire
 <li><a href="#Configuration de Mumble">Configuration de Mumble</a></li>
 <li><a href="#Fonctionnalités de base">Fonctionnalités de base</a></li>
 <li><a href="#Fonctionnalités avancées">Fonctionnalités avancées</a></li>
@@ -101,5 +105,10 @@ Ici, par exemple, pour l'interface utilisateur, vous avez en plus la possibilit�
 Pour l'entrée audio, là ou il n'y avait que la qualité de la voix à configurer, il y a beaucoup plus de réglages, comme la suppression de bruit, plus de réglages audio afin d'avoir une meilleure qualité de son et de voix.
 
 ![image](https://github.com/user-attachments/assets/89ebd1ba-2fb9-45b2-9c58-e1b05d6307d3)
+
+
+
+<h2 id="F.A.Q">F.A.Q</h2>  
+
 
 
